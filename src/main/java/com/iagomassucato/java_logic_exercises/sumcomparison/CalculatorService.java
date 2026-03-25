@@ -1,0 +1,12 @@
+package com.iagomassucato.java_logic_exercises.sumcomparison;
+
+public class CalculatorService {
+
+    public static int som(int a, int b){
+        return a + b;
+    }
+
+    public static boolean theSumIsGreaterThanC(int a, int b, int c){
+        return som(a,b) > c;
+    }
+}
