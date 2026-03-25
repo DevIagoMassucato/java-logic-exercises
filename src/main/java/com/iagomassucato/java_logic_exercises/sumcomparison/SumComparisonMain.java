@@ -2,7 +2,7 @@ package com.iagomassucato.java_logic_exercises.sumcomparison;
 
 import java.util.Scanner;
 
-public class JavaLogicExercisesApplication {
+public class SumComparisonMain {
 
     public static void main(String[] args) {
 

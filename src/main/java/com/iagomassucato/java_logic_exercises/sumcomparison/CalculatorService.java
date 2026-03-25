@@ -9,4 +9,8 @@ public class CalculatorService {
     public static boolean theSumIsGreaterThanC(int a, int b, int c){
         return som(a,b) > c;
     }
+
+    public static boolean isDivisible(int number){
+        return number % 2 == 0;
+    }
 }
