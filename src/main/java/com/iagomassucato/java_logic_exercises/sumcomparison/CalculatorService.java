@@ -13,4 +13,8 @@ public class CalculatorService {
     public static boolean isDivisible(int number){
         return number % 2 == 0;
     }
+
+    public static int multiply(int a, int b){
+        return a * b;
+    }
 }
